@@ -41,18 +41,18 @@ For Linux users:
 
 1. Clone the repository:
     
-    # `git clone <repo-url>`
+     `git clone https://github.com/sbourziq1337/So_long.git`
     
 2. Navigate to the directory:
 
-    # `cd so_long`
+     `cd so_long`
 3. Compile the project:
 
-    # `make`
+     `make`
     
 4. Run the game:
     
-    # `./so_long <map_file.ber>`
+     `./so_long <map_file.ber>`
     
 ---
 
